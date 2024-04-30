@@ -1,3 +1,4 @@
+EXPLORING URBAN LANDSCAPES THROUGH AI ANALYSIS
 In our rapidly urbanizing world, cities are epicenters of growth, innovation, and diversity. Understanding the dynamic nature of urban ecology is crucial for effective urban planning, resource management, and sustainable development.
 The CITY.AI workshop explores the big data frameworks of satellite imagery and curates a methodology for urban analysis empowered by artificial intelligence. Through the lens of Image segmentation AI models and advanced data scripting, we embark on a journey to explore ecology within cities from a unique perspective, uncovering decadal changes and patterns that shape our urban landscapes, to efficiently decode urban evolution, paving the way for data-informed decision-making.
 CITY.AI aims to reimagine cities together, one pixel at a time.
